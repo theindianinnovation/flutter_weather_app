@@ -4,7 +4,7 @@ import 'package:flutter_weather_app/utils/location_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 
-const apiKeys = '******************';
+const apiKey = '******************';
 
 
 class WeatherData {
@@ -66,22 +66,3 @@ class WeatherDisplayData {
 
   WeatherDisplayData({@required this.weatherIcon, @required this.weatherImage});
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-const apiKey = '1f297127e260df860bdadba9c2eb39d5';
