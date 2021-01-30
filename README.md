@@ -1,16 +1,5 @@
-# flutter_weather_app
+##Weather App Screenshot
+![WhatsApp Image 2021-01-30 at 11 55 10 AM](https://user-images.githubusercontent.com/66554769/106349228-4e49d000-62f2-11eb-8e24-f05d522633f5.jpeg)
 
-A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**### Youtube Channel Link:** https://youtube.com/c/CodeStudiobyIndianInnovation
